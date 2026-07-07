@@ -36,9 +36,11 @@ export default function Hero() {
               <ArrowRight />
             </Button>
 
-            <Button size="lg" variant="outline">
-              Calcule seu IMC
-            </Button>
+            <a href="#calculadora-imc">
+  <Button size="lg" variant="outline">
+    Calcule seu IMC
+  </Button>
+</a>
 
           </div>
 
